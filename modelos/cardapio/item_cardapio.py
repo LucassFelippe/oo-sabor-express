@@ -1,5 +1,5 @@
-class itemCardapio:
-    def __init__(self,preco, nome):
-        self.nome = nome
-        self.preco = preco
+class ItemCardapio:
+    def __init__(self,nome,preco):
+        self._nome = nome
+        self._preco = preco
         
