@@ -1,4 +1,3 @@
-
 from modelos.restaurante import Restaurante
 from modelos.cardapio.bebida import Bebida
 from modelos.cardapio.prato import Prato
